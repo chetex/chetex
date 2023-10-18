@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nacho</h1>
 <h3 align="center">Software engineer</h3>
 
+- 👋 Hi, I’m Ignacio García Gómez
+- 👀 I’m actually interested in Spring Boot ecosystem with Next.js.
 - 🔭 I’m currently working on **CHEOPS ESA satellite project**
 
 <h3 align="left">Connect with me:</h3>
