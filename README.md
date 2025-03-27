@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Ignacio García Gómez
 - 👀 I’m actually interested in Spring Boot ecosystem with Next.js.
-- 🔭 I’m currently working on **FLEX ESA mission plan project**
+- 🔭 I’m currently working on **ESA mission plan projects**
 
 
 <h3 align="left">Languages and Tools:</h3>
